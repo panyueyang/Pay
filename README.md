@@ -9,6 +9,7 @@
   此演示是基于普通版 测试地址: http://pay.wzhot.com
 
 文档地址： http://pay.wzhot.com/apitext/index.html  项目，微信必须上传二维码，支付宝无需上传收款二维码，支持h5唤醒支付，无需用户手动输入金额！
+安卓客户端APP安装文件下载:http://pay.wzhot.com/cs2.html
 
     注:安卓客户端不提供源代码，仅提供App安装文件;
   
